@@ -1,0 +1,5 @@
+/.idea/
+/composer.lock
+/vendor/composer/
+/vendor/creogen/
+/vendor/autoload.php

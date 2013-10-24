@@ -1,0 +1,13 @@
+{
+    "name": "creogen/rapid-application",
+    "description": "Base application for RapidPHP",
+    "keywords": [
+        "framework",
+        "rapidphp"
+    ],
+    "homepage": "http://rapidphp.org/",
+    "require": {
+        "php": ">=5.3.3",
+        "creogen/rapidphp": "dev-master"
+    }
+}
